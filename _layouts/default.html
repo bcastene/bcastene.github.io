@@ -10,7 +10,7 @@
 </head>
 <body>
   <header class="kop">
-    <a class="merk" href="{{ '/index.html' | relative_url }}">BC Astene</a>
+    <a class="merk" href="{{ '/index.html' | relative_url }}"><img class="logo" src="{{ '/assets/logo.png' | relative_url }}" alt="BC Astene" width="1470" height="595"></a>
     <nav class="menu" aria-label="Hoofdmenu">
       {% for item in site.data.menu %}
       <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>

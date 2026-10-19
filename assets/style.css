@@ -33,10 +33,16 @@ a { color: var(--accent); }
 }
 .merk {
   display: inline-block;
-  font-size: 1.5rem;
-  font-weight: 700;
+  line-height: 0;
   text-decoration: none;
-  color: var(--tekst);
+}
+.logo {
+  display: block;
+  height: 52px;          /* gsm; breedte volgt de verhouding */
+  width: auto;
+  max-width: 100%;
+  background: #ffffff;   /* logo heeft witte achtergrond, ook in donkere modus */
+  border-radius: 4px;
 }
 .menu {
   display: flex;
@@ -76,6 +82,7 @@ li { margin-bottom: 0.4rem; }
 }
 
 @media (min-width: 40rem) {
+  .logo { height: 60px; }
   .kop { display: flex; align-items: center; justify-content: space-between; padding: 0.75rem 1.5rem; }
   .menu { margin-top: 0; }
 }
