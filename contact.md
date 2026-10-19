@@ -9,6 +9,6 @@ permalink: /contact.html
 
 Vragen over de club, een proefavond of je lidmaatschap? Mail ons op **<span class="mailadres" data-g="bcastene" data-d="gmail" data-t="com"><noscript>bcastene [at] gmail [punt] com</noscript></span>**.
 
-Je kan ook gewoon op woensdagavond tussen 20 en 23u langskomen in de sportzaal van het VTI in Deinze.
-
 We antwoorden zo snel mogelijk.
+
+Je kan ook gewoon op woensdagavond tussen 20 en 23u langskomen in de sportzaal van het VTI in Deinze.
