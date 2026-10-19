@@ -1,0 +1,81 @@
+/* Eén stijlbestand voor de hele site. Systeemlettertype, mobiel eerst. */
+:root {
+  --tekst: #1d2733;
+  --achtergrond: #ffffff;
+  --accent: #1a5fb4;
+  --zacht: #eef2f7;
+  --lijn: #cfd8e3;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --tekst: #e6ebf1;
+    --achtergrond: #14191f;
+    --accent: #7db3f5;
+    --zacht: #1e262f;
+    --lijn: #36424f;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.0625rem;
+  line-height: 1.6;
+  color: var(--tekst);
+  background: var(--achtergrond);
+}
+a { color: var(--accent); }
+
+.kop {
+  background: var(--zacht);
+  border-bottom: 1px solid var(--lijn);
+  padding: 0.75rem 1rem 0.5rem;
+}
+.merk {
+  display: inline-block;
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-decoration: none;
+  color: var(--tekst);
+}
+.menu {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.5rem;
+  margin-top: 0.25rem;
+}
+.menu a {
+  padding: 0.6rem 0.5rem;   /* ruim genoeg om met een vinger te raken */
+  text-decoration: none;
+  color: var(--tekst);
+  border-bottom: 3px solid transparent;
+}
+.menu a:hover { border-bottom-color: var(--lijn); }
+.menu a[aria-current="page"] {
+  font-weight: 700;
+  border-bottom-color: var(--accent);
+}
+
+main, .voet {
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+main { padding-top: 1rem; padding-bottom: 2rem; }
+h1 { font-size: 1.75rem; line-height: 1.25; margin: 1rem 0; }
+h2 { font-size: 1.25rem; margin: 1.75rem 0 0.25rem; }
+p, ul { margin: 0.5rem 0 1rem; }
+ul { padding-left: 1.25rem; }
+li { margin-bottom: 0.4rem; }
+
+.voet {
+  border-top: 1px solid var(--lijn);
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  font-size: 0.9375rem;
+}
+
+@media (min-width: 40rem) {
+  .kop { display: flex; align-items: center; justify-content: space-between; padding: 0.75rem 1.5rem; }
+  .menu { margin-top: 0; }
+}

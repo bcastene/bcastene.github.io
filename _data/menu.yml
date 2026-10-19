@@ -1,0 +1,12 @@
+# Menu van de site. Een regel per pagina, in de volgorde van het menu.
+# url moet gelijk zijn aan de permalink in de pagina zelf.
+- title: Over de club
+  url: /index.html
+- title: Speeluren
+  url: /speeluren.html
+- title: Lid worden
+  url: /lid-worden.html
+- title: Contact
+  url: /contact.html
+- title: Privacy
+  url: /privacy.html

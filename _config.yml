@@ -1,0 +1,11 @@
+# Instellingen van de site. Alleen wat GitHub Pages standaard kent.
+title: BC Astene
+description: Badminton Club Astene, een recreatieve badmintonclub uit Astene (Deinze).
+lang: nl
+email: bcastene@gmail.com
+markdown: kramdown
+
+# Bestanden die niet op de site mogen verschijnen
+exclude:
+  - README.md
+  - controle.py
