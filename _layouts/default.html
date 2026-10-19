@@ -6,11 +6,11 @@
   <title>{{ page.title | escape }} | {{ site.title | escape }}</title>
   <meta name="description" content="{{ page.description | default: site.description | escape }}">
   <link rel="icon" type="image/svg+xml" href="{{ '/assets/favicon.svg' | relative_url }}">
-  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}?v=20261019-3">
 </head>
 <body>
   <header class="kop">
-    <a class="merk" href="{{ '/index.html' | relative_url }}"><img class="logo" src="{{ '/assets/logo.png' | relative_url }}" alt="BC Astene" width="1470" height="595"></a>
+    <a class="merk" href="{{ '/index.html' | relative_url }}"><img class="logo" src="{{ '/assets/logo.png' | relative_url }}?v=20261019-3" alt="BC Astene" width="148" height="60"></a>
     <nav class="menu" aria-label="Hoofdmenu">
       {% for item in site.data.menu %}
       <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
