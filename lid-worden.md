@@ -23,7 +23,7 @@ Gewoon een woensdagavond tussen 20 en 23u langskomen kan. Mail ons gerust vooraf
 
 ## Aansluiten
 
-Wil je lid worden? Stuur dan een mailtje naar [bcastene@gmail.com](mailto:bcastene@gmail.com). Je krijgt de info over de betaling en we vragen enkele gegevens om je in te schrijven bij Badminton Vlaanderen.
+Wil je lid worden? Stuur ons dan een mailtje (zie [Contact](contact.html)). Je krijgt de info over de betaling en we vragen enkele gegevens om je in te schrijven bij Badminton Vlaanderen.
 
 Zodra je lidgeld betaald is, schrijft de secretaris je in bij Badminton Vlaanderen. Zo ben je verzekerd.
 

@@ -11,7 +11,7 @@ Laatst bijgewerkt: 2026-10-19
 
 ## Wie zijn we?
 
-Badminton Club Astene (BC Astene) is een feitelijke vereniging uit Astene, Deinze. Je bereikt ons op [bcastene@gmail.com](mailto:bcastene@gmail.com).
+Badminton Club Astene (BC Astene) is een feitelijke vereniging uit Astene, Deinze. Je bereikt ons via de [contactpagina](contact.html).
 
 ## Welke gegevens houden we bij?
 
@@ -41,11 +41,11 @@ Enkel het bestuur heeft toegang tot de ledengegevens.
 
 ## Google-koppeling van de clubmailbox
 
-Onze clubmailbox (bcastene@gmail.com) is een Gmail-account. Daaraan hangt een koppeling met Google die enkel de secretaris intern gebruikt om mails te lezen, concepten klaar te zetten en contactgegevens op te zoeken. Er worden geen gegevens via deze koppeling gepubliceerd of aan derden doorgegeven. Bezoekers van deze website gebruiken die koppeling niet.
+Onze clubmailbox is een Gmail-account. Daaraan hangt een koppeling met Google die enkel de secretaris intern gebruikt om mails te lezen, concepten klaar te zetten en contactgegevens op te zoeken. Er worden geen gegevens via deze koppeling gepubliceerd of aan derden doorgegeven. Bezoekers van deze website gebruiken die koppeling niet.
 
 ## Je rechten
 
-Je mag je gegevens inkijken, laten verbeteren of laten verwijderen. Mail ons op [bcastene@gmail.com](mailto:bcastene@gmail.com) en we regelen het. Heb je een klacht? Dan kan je terecht bij de [Gegevensbeschermingsautoriteit](https://www.gegevensbeschermingsautoriteit.be).
+Je mag je gegevens inkijken, laten verbeteren of laten verwijderen. Mail ons via de [contactpagina](contact.html) en we regelen het. Heb je een klacht? Dan kan je terecht bij de [Gegevensbeschermingsautoriteit](https://www.gegevensbeschermingsautoriteit.be).
 
 ## Deze website
 
