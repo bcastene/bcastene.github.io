@@ -11,7 +11,7 @@ Laatst bijgewerkt: 2026-10-19
 
 ## Wie zijn we?
 
-Badminton Club Astene (BC Astene) is een feitelijke vereniging uit Astene, Deinze. Je bereikt ons via de [contactpagina](contact.html).
+Badminton Club Astene (BC Astene) is een feitelijke vereniging uit Deinze. Je bereikt ons via de [contactpagina](contact.html).
 
 ## Welke gegevens houden we bij?
 

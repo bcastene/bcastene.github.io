@@ -1,15 +1,15 @@
 ---
 layout: default
 title: "Over de club"
-description: "Badminton Club Astene is een recreatieve badmintonclub uit Astene, deelgemeente van Deinze. Iedereen is welkom, met of zonder ervaring."
+description: "Badminton Club Astene is een recreatieve badmintonclub uit Deinze, al meer dan 25 jaar, oorspronkelijk opgestart door De Ceder in Astene. Iedereen is welkom, met of zonder ervaring."
 permalink: /index.html
 ---
 
 # Badminton Club Astene
 
-Welkom bij BC Astene, een recreatieve badmintonclub uit Astene, deelgemeente van Deinze.
+Welkom bij BC Astene, een recreatieve badmintonclub uit Deinze. De club bestaat al meer dan 25 jaar en werd oorspronkelijk opgestart door De Ceder in Astene.
 
-We bestaan al ongeveer 26 jaar. Bij ons is iedereen welkom, met of zonder ervaring. We hebben alle speelniveaus in de club en de mensen passen zich aan elkaar aan.
+Bij ons is iedereen welkom, met of zonder ervaring. We hebben alle speelniveaus in de club en de mensen passen zich aan elkaar aan.
 
 We spelen meestal in duo's en iedereen speelt met iedereen. Het gaat om bewegen, plezier en een gezellige sfeer. We zijn geen competitieclub en willen dat ook niet worden.
 
