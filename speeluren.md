@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Speeluren en zaal"
-description: "Wanneer en waar speelt BC Astene? Elke woensdagavond van 20 tot 23u in de sportzaal van het VTI in Deinze."
+description: "Wanneer en waar speelt BC Astene? Elke woensdagavond van 20 tot 23u, behalve op feestdagen, in de sportzaal van het VTI in Deinze."
 permalink: /speeluren.html
 ---
 
@@ -9,7 +9,7 @@ permalink: /speeluren.html
 
 ## Wanneer?
 
-Elke woensdagavond van 20 tot 23u.
+Elke woensdagavond van 20 tot 23u, behalve op feestdagen.
 
 ## Waar?
 

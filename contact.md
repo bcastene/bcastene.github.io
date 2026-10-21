@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Contact"
-description: "Contact met BC Astene? Mail ons of kom op woensdagavond langs in de sportzaal van het VTI in Deinze."
+description: "Contact met BC Astene? Mail ons of kom op woensdagavond (behalve op feestdagen) langs in de sportzaal van het VTI in Deinze."
 permalink: /contact.html
 ---
 
@@ -11,4 +11,4 @@ Vragen over de club, een proefavond of je lidmaatschap? Mail ons op **<span clas
 
 We antwoorden zo snel mogelijk.
 
-Je kan ook gewoon op woensdagavond tussen 20 en 23u langskomen in de sportzaal van het VTI in Deinze.
+Je kan ook gewoon op woensdagavond (behalve op feestdagen) tussen 20 en 23u langskomen in de sportzaal van het VTI in Deinze.

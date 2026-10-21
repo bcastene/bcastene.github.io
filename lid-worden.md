@@ -11,7 +11,7 @@ permalink: /lid-worden.html
 
 Je mag drie keer vrijblijvend komen proberen om te zien of de club iets voor jou is. Tijdens die proefavonden betaal je geen lidgeld, enkel het weekgeld van €1. Je bent dan nog niet verzekerd.
 
-Gewoon een woensdagavond tussen 20 en 23u langskomen kan. Mail ons gerust vooraf, dan weten we dat je komt.
+Gewoon een woensdagavond (behalve op feestdagen) tussen 20 en 23u langskomen kan. Mail ons gerust vooraf, dan weten we dat je komt.
 
 ## Lidgeld
 
