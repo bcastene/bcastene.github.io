@@ -25,7 +25,7 @@ Van leden houden we bij: naam en voornaam, geslacht, adres, geboortedatum, mobie
 
 ## Badminton Vlaanderen
 
-Om je te registreren geven we je gegevens door aan Badminton Vlaanderen, waar de club bij aangesloten is. Zij verwerken die gegevens voor het lidmaatschap en de verzekering, volgens hun eigen regels. Lees hun [privacyverklaring](https://badminton.vlaanderen/privacy-policy/).
+Om je te registreren geven we je gegevens door aan Badminton Vlaanderen, waar de club bij aangesloten is. Zij verwerken die gegevens voor het lidmaatschap en de verzekering, volgens hun eigen regels. Lees hun [privacyverklaring](https://badminton.vlaanderen/privacy-policy/){:target="_blank" rel="noopener noreferrer"}.
 
 ## Met wie delen we je gegevens?
 
@@ -45,7 +45,7 @@ Onze clubmailbox is een Gmail-account. Daaraan hangt een koppeling met Google di
 
 ## Je rechten
 
-Je mag je gegevens inkijken, laten verbeteren of laten verwijderen. Mail ons via de [contactpagina](contact.html) en we regelen het. Heb je een klacht? Dan kan je terecht bij de [Gegevensbeschermingsautoriteit](https://www.gegevensbeschermingsautoriteit.be).
+Je mag je gegevens inkijken, laten verbeteren of laten verwijderen. Mail ons via de [contactpagina](contact.html) en we regelen het. Heb je een klacht? Dan kan je terecht bij de [Gegevensbeschermingsautoriteit](https://www.gegevensbeschermingsautoriteit.be){:target="_blank" rel="noopener noreferrer"}.
 
 ## Deze website
 
