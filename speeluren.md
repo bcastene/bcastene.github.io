@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Speeluren en zaal"
-description: "Wanneer en waar speelt BC Astene? Elke woensdagavond van 20 tot 23u, behalve op feestdagen, in de sportzaal van het VTI in Deinze."
+description: "Wanneer en waar speelt BC Astene? Elke woensdagavond van 20 tot 23u, behalve op feestdagen en in de zomerstop, in de sportzaal van het VTI in Deinze."
 permalink: /speeluren.html
 ---
 
@@ -9,7 +9,7 @@ permalink: /speeluren.html
 
 ## Wanneer?
 
-Elke woensdagavond van 20 tot 23u, behalve op feestdagen.
+Elke woensdagavond van 20 tot 23u, behalve op feestdagen en tijdens de zomerstop (15 juli tot en met 15 augustus).
 
 ## Waar?
 
@@ -19,7 +19,7 @@ De ingang vind je in de Leon Declercqstraat. Parkeren doe je in de straat, niet 
 
 ## Zomerstop
 
-Tijdens de zomer spelen we niet, tussen 15 juli en 15 augustus. Over de herstart na de zomer verwittigen we de leden per mail.
+Tijdens de zomer spelen we niet, van 15 juli tot en met 15 augustus. Over de herstart na de zomer verwittigen we de leden per mail.
 
 ## Wat breng je mee?
 
