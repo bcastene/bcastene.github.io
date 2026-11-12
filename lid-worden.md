@@ -28,3 +28,10 @@ Wil je lid worden? Stuur ons dan een mailtje (zie [Contact](contact.html)). Je k
 Zodra je lidgeld betaald is, schrijft de secretaris je in bij Badminton Vlaanderen. Zo ben je verzekerd.
 
 We vragen per persoon: naam en voornaam, geslacht, adres, geboortedatum, mobiel nummer en e-mailadres. Alles wordt vertrouwelijk behandeld. Lees er meer over op onze [privacypagina](privacy.html).
+
+## Verzekering
+
+Als lid ben je verzekerd via Badminton Vlaanderen.
+
+- [Gegevens over de verzekering](https://badminton.vlaanderen/verzekeringen/){:target="_blank" rel="noopener noreferrer"}
+- [Schadeaangifte indienen](https://claims-badmintonvlaanderen.be/){:target="_blank" rel="noopener noreferrer"}
